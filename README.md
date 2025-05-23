@@ -1,1 +1,1 @@
-# ShoppingList
+Beim öffnen der App besteht die Möglichkeit einen Punkt zur Liste hinzuzufügen und wie viele des Objekts man braucht. Wenn man dies dann auf die Liste packt, wird es in einem Collumn angezeigt und als klickbarer Text generiert. Wenn auf den Text geklickt wird verschwindet das Objekt.
